@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.18.0"
   latestRelease: "v0.18.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:59:20Z
+  collectedAt: 2026-09-10T23:44:00Z
 timeline:
   created: 2018-06-23
   lastCommit: 2025-11-05
@@ -84,7 +84,7 @@ total:
   commit: 2108
 ---
 path: /home/runner/.x-repo/github.com/genjidb/genji
-collectedAt: 2026-09-10T17:59:23Z
+collectedAt: 2026-09-10T23:44:01Z
 loc:
   Go:
     code: 28849
